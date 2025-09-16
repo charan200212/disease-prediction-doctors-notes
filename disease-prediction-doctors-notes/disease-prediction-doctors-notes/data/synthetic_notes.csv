@@ -1,0 +1,37 @@
+note_id,note_text,label
+1,"Patient reports fever, cough, sore throat, and fatigue for three days.",Flu
+2,"High fever, runny nose, muscle pain, patient feels very weak.",Flu
+3,"Mild cough and fever with chills, sore throat worsening.",Flu
+4,"Severe chest pain radiating to left arm, breathlessness, sweating.",Heart Disease
+5,Pressure-like chest pain on exertion relieved by rest.,Heart Disease
+6,Shortness of breath and fatigue with minimal exertion.,Heart Disease
+7,"Frequent urination, excessive thirst, fatigue; elevated fasting glucose.",Diabetes
+8,"Polyuria, polydipsia, unexplained weight loss; family history positive.",Diabetes
+9,"Increased thirst, blurred vision, slow healing wounds.",Diabetes
+10,"Runny nose, sneezing, mild cough; afebrile. Symptoms since yesterday.",Common Cold
+11,"Sore throat, nasal congestion, sneezing; mild fatigue.",Common Cold
+12,"Blocked nose, watery eyes, cough with mild headache.",Common Cold
+13,"Persistent wheezing, shortness of breath, chest tightness after dust exposure.",Asthma
+14,"Intermittent wheeze worsened by exercise, night-time coughing.",Asthma
+15,"Difficulty breathing in cold weather, wheezing after running.",Asthma
+16,"High fever, chills, severe headache, body aches after travel to endemic area.",Malaria
+17,"Acute onset fever, chills, profuse sweating in cycles.",Malaria
+18,"Recurrent fever episodes with chills, fatigue, and sweating.",Malaria
+19,"Burning sensation during urination, lower abdominal pain, cloudy urine.",UTI
+20,"Dysuria, urgency, suprapubic discomfort; no flank pain.",UTI
+21,"Frequent urge to urinate, lower back pain, smelly urine.",UTI
+22,"Sudden high fever, severe joint and muscle pain, rash; mosquito exposure.",Dengue
+23,High fever with severe back pain and rash; recent mosquito bites.,Dengue
+24,"Severe headache, nausea, skin rash, joint pain lasting 2 days.",Dengue
+25,"Chronic cough with sputum, breathlessness on exertion; long smoking history.",COPD
+26,"Persistent cough, dyspnea, reduced exercise tolerance; long-term smoker.",COPD
+27,"Difficulty breathing, chest tightness, chronic mucus production.",COPD
+28,"Severe headache, stiff neck, photophobia; high fever.",Meningitis
+29,"Neck stiffness, vomiting, confusion, sudden high fever.",Meningitis
+30,"Headache, sensitivity to light, fever, nausea.",Meningitis
+31,"Swollen joints, morning stiffness, joint pain in hands and feet.",Arthritis
+32,"Painful knees with stiffness in the morning, reduced mobility.",Arthritis
+33,"Joint swelling, warmth, pain worsening with activity.",Arthritis
+34,"Abdominal pain localized to right lower quadrant, nausea, loss of appetite.",Appendicitis
+35,"Sudden severe abdominal pain, vomiting, tenderness in RLQ.",Appendicitis
+36,Sharp pain starting near navel moving to lower right abdomen.,Appendicitis

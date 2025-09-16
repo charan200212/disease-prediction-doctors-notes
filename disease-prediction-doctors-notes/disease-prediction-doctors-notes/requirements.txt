@@ -1,0 +1,9 @@
+
+pandas
+numpy
+scikit-learn
+nltk
+mysql-connector-python
+python-dotenv
+joblib
+matplotlib
